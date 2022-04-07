@@ -31,4 +31,4 @@ public class UIItem : MonoBehaviour,IDragHandler, IBeginDragHandler,IEndDragHand
         transform.localPosition = Vector3.zero;
         _canvasGroup.blocksRaycasts = true;
     }
-}
+} 
